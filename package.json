@@ -1,0 +1,24 @@
+{
+  "name": "blog-template",
+  "version": "1.0.0",
+  "description": "Blog template to be used for later applications",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liudiciani/blog-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liudiciani/blog-template/issues"
+  },
+  "homepage": "https://github.com/liudiciani/blog-template#readme",
+  "dependencies": {
+    "angular": "^1.6.5",
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.4"
+  }
+}
